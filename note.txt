@@ -1,17 +1,14 @@
-    
-    <!-- Loading Screen -->
-    <div class="loading" id="loading">
-        <div class="spinner"></div>
-    </div>
-    
-    
-    <!-- AOS Animation -->
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+Admin 
+---------------
+-> motiur 
+-> Motiur@123
 
+Doctor
+---------------
+-> jannat@gmail.com
+-> Test@123
 
-    
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-
-    https://dev-cmt.github.io/SEU-hospital-management-system/
+Patient
+---------------
+-> soniya@gmail.com
+-> Test@123
